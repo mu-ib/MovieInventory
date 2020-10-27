@@ -1,0 +1,2 @@
+C:\CompSci\C++\Software Design\MovieInventory\Debug\MovieInventory.exe
+C:\CompSci\C++\Software Design\MovieInventory\Debug\MovieInventory.pdb

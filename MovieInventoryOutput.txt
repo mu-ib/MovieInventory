@@ -1,0 +1,22 @@
+How much is Dances?     4.5
+How many are renting Dances?     5
+How much is Mighty?     8.75
+How many are renting Mighty?     7
+How much is Snoring?     4.23
+How many are renting Snoring?     6
+What is the name of the fourth movie (make sure to use a one-word title)?     Inception
+How much is Inception?     9.95
+How many are renting Inception?     9
+
+Movie Title                  Cost          # Renting
+Dances with Muskrats         $4.50         5
+D3-The Mighty Dentists       $8.75         7
+While You Were Snoring       $4.23         6
+Inception                    $9.95         9
+
+The total value of all rentals is: $198.68
+The average value is: $7.36
+
+C:\CompSci\C++\Software Design\MovieInventory\Debug\MovieInventory.exe (process 32636) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
